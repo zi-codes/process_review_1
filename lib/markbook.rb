@@ -5,7 +5,7 @@ class Markbook
     array = string.split(",")
     number = array.count(colour)
 
-    "Red : #{number}"
+    "#{colour} : #{number}"
 
   end
 
